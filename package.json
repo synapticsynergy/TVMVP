@@ -1,10 +1,9 @@
 {
-  "name": "recast.ly",
-  "version": "1.1.0",
-  "description": "Making YouTube with React and ES6",
-  "author": "Hack Reactor <curriculum.team@hackreactor.com>",
-  "license": "UNLICENSED",
-  "private": true,
+  "name": "TVMVP",
+  "version": "1.0",
+  "description": "Making Your TV Respond to Amazone Alexa",
+  "author": "Blake Danson",
+  "license": "MIT",
   "scripts": {
     "test": "live-server --open=./SpecRunner.html --port=8081",
     "start": "babel . --out-dir compiled --presets=es2015,react --ignore=node_modules,compiled --source-maps inline"
